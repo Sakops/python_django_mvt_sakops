@@ -1,0 +1,9 @@
+ul:hover {
+    color: rgb(58, 58, 241);
+}
+
+body {
+    background-image: url('./city.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
